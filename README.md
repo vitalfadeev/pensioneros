@@ -1,4 +1,4 @@
-gui.zip - minimal application
+gui.zip - minimal application (x86, Win10)
 
     Content:
     desktop.exe - main file
